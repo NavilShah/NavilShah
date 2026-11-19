@@ -1,6 +1,6 @@
 
 <a href="https://navilshah.com/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
-  <img src="assets/banner.svg" width="100%" alt="Navil Shah, Independent Software Architect. The architect for the difficult middle. navilshah.com">
+  <img src="banner.svg" width="100%" alt="Navil Shah, Independent Software Architect. The architect for the difficult middle. navilshah.com">
 </a>
 I'm Navil Shah, an independent software architect based in Ahmedabad, India. I work on the difficult middle: the point where a new platform, an AI feature or a mobile app has to work with systems that were never designed to talk to each other. I stay involved until it holds after handover.
  
