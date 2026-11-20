@@ -21,8 +21,13 @@ If we can't write it down, it isn't ready to build, and I'll tell you so.
  
 ### Stack I work in
  
-Python · Frappe · ERPNext · C# and .NET · Node.js · React · Vue · PHP (Laravel, Symfony, CodeIgniter) · Flutter · native iOS and Android · Docker · CI/CD
- 
+- **Business systems:** ERPNext · Frappe · Odoo · Tally · GST and e-invoicing (IRN) · Python
+- **Web and mobile:** PHP (Laravel, Symfony, CodeIgniter) · Node.js · React · Next.js · Vue · React Native · Flutter · native iOS and Android
+- **.NET and data:** C# · ASP.NET · WPF and MVVM · VB.NET · MySQL · MS SQL · SQLite
+- **Integration and machines:** REST and JSON web services · MQTT · OPC UA · ADS · EtherCAT · TCP/IP
+- **AI in production:** LLM features with evaluations, cost limits and human approval
+- **Hosting:** Docker · Traefik · Prometheus · Grafana · CI/CD
+
 ### Work with me
  
 Founders, CTOs, operations heads and software agencies who need an architect: start with a discovery call.
